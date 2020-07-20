@@ -38275,7 +38275,7 @@ r=S.mJ(s,new K.b7(r,r,r,r),s,$.TE(),s,s,C.a_)
 return R.RY(!1,!0,M.jT(s,new T.h7(C.b3,s,s,L.pr(this.d,A.eJ(s,s,s,s,s,s,s,s,s,s,s,16,s,C.aC,s,s,!0,s,s,s,s,s,s)),s),s,s,r,50,s,s,250),s,!0,s,s,s,s,s,s,s,s,s,this.c,s)}}
 F.vx.prototype={
 L:function(a){var s=$.Ys(),r=K.c1(a).y2,q=B.dk(r.a),p=B.dk(r.b),o=B.dk(r.c),n=B.dk(r.d),m=B.dk(r.e),l=B.dk(r.f),k=B.dk(r.r),j=B.dk(r.x),i=B.dk(r.y),h=B.dk(r.z),g=B.dk(r.Q),f=B.dk(r.ch)
-return new S.o_("/land",new F.Ik(),"Flutter Demo",X.VT(null,s,R.SH(i,h,f,g,q,p,o,n,m,l,B.dk(r.cx),k,j),X.a1b()),!1,null)}}
+return new S.o_("/land",new F.Ik(),"Daniel Melo Journal",X.VT(null,s,R.SH(i,h,f,g,q,p,o,n,m,l,B.dk(r.cx),k,j),X.a1b()),!1,null)}}
 F.Ik.prototype={
 $1:function(a){switch(a.a){case"/land":return V.HT(new F.Ih(),null,t.z)
 case"/weeks":return V.HT(new F.Ii(),null,t.z)
